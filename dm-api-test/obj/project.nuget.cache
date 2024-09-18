@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iDHZhxV4i6cUKM3ghw1DKOjvyT+EoEtdlPB0Vv5LQmV9vM2xEKKgXvoi6eI+/NLbes972uQmKpPqzxyYnLCIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deepak.madbhavi\\source\\repos\\dm-api-test\\dm-api-test\\dm-weather-api-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\microsoft.net.test.sdk\\17.11.1\\microsoft.net.test.sdk.17.11.1.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.11.1\\microsoft.testplatform.objectmodel.17.11.1.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\microsoft.testplatform.testhost\\17.11.1\\microsoft.testplatform.testhost.17.11.1.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\nunit.analyzers\\4.3.0\\nunit.analyzers.4.3.0.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\restsharp\\112.0.0\\restsharp.112.0.0.nupkg.sha512",
+    "C:\\Users\\deepak.madbhavi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
